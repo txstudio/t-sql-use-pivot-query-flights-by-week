@@ -1,1 +1,9 @@
-# t-sql-use-pivot-query-flights-by-week
+# 使用 Pivot 語法查詢練習
+
+### 取得 2018/06 ~ 2018/08 間每個航班在每個星期的飛行次數統計
+
+查詢結果格式如下
+
+|FlightNumber|SUN|MON|TUE|WED|THU|FRI|SAT|
+|--|--|--|--|--|--|--|--|
+|TX###|##|##|##|##|##|##|##|
